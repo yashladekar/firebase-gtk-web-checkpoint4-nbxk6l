@@ -357,25 +357,23 @@ body {
   width: 100%;
   padding-bottom: 5px;
 }
-/* .inner_footer .footer_third_quotes h1 {
-  float: left;
-  margin-right: 10px;
-  font-family: "arial";
-  font-size: 30px;
-  color: white;
-  display: block;
-  width: 100%;
-  margin-bottom: 20px;
-} */
+
 .inner_footer .footer_third_quotes {
   float: right;
-  margin-right: 50px;
+  margin-right: 20px;
+   /* border: 1px #c9e8fd; */
 }
 .inner_footer .footer_third_quotes h1 {
-  font-family: "arial";
+  font-family: "gelasio ",serif;
+  font-style: italic;
+
+  
+
   color: white;
   font-size: 30px;
+  /* border: 1px #c9e8fd; */
 }
+
 @media (max-width: 800px) {
   .footer .inner_footer {
     width: 90%;
